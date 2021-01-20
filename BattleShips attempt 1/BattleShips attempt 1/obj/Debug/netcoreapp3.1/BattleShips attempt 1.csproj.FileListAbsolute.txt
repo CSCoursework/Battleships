@@ -1,0 +1,13 @@
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\bin\Debug\netcoreapp3.1\BattleShips attempt 1.exe
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\bin\Debug\netcoreapp3.1\BattleShips attempt 1.deps.json
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\bin\Debug\netcoreapp3.1\BattleShips attempt 1.runtimeconfig.json
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\bin\Debug\netcoreapp3.1\BattleShips attempt 1.runtimeconfig.dev.json
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\bin\Debug\netcoreapp3.1\BattleShips attempt 1.dll
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\bin\Debug\netcoreapp3.1\BattleShips attempt 1.pdb
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.csprojAssemblyReference.cache
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.AssemblyInfoInputs.cache
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.AssemblyInfo.cs
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.dll
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.pdb
+C:\Users\vivek\source\repos\BattleShips attempt 1\BattleShips attempt 1\obj\Debug\netcoreapp3.1\BattleShips attempt 1.genruntimeconfig.cache
